@@ -4,7 +4,7 @@ This repository contains a project focused on analyzing recessions using Python.
 ## Dataset
 The dataset used in this project provides historical economic data that is crucial for recession analysis. The dataset was relatively clean, but some data wrangling was required to extract additional columns and features for a comprehensive analysis.
 
-## Dataset Link: Recession Case Study Dataset
+## Dataset Link: https://statso.io/recession-case-study/
 
 ## Project Summary
 The main objectives of the project were:
